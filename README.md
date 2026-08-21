@@ -6,3 +6,6 @@ After the files are on your computers simply run this command :
 py -m PyInstaller --clean --onefile --windowed --noconsole  --icon="parrot.ico" parrot.py
 
 py -m PyInstaller --clean --onefile --windowed --noconsole  --icon="pirate.ico" pirate.py
+
+
+On PC B the Pirate app, the receiver, to change the IP of the host you can do it by pressing "Control+Shift+K"
