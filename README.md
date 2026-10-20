@@ -9,3 +9,7 @@ py -m PyInstaller --clean --onefile --windowed --noconsole  --icon="pirate.ico" 
 
 
 On PC B the Pirate app, the receiver, to change the IP of the host you can do it by pressing "Control+Shift+K"
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
